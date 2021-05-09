@@ -17,6 +17,7 @@ I'm currently competing for team - Salford University
 | Alaric's Treasure | [view code](https://github.com/Matt-CompSci/Unicode2020/blob/main/alarics_treasure.py) | 100% |
 | The Heist | [view code](https://github.com/Matt-CompSci/Unicode2020/blob/main/the_heist.py) | 88% |
 | Galatea | [view code](https://github.com/Matt-CompSci/Unicode2020/blob/main/galatea.py) | 100% |
+| The Archives | [view code](https://github.com/Matt-CompSci/Unicode2020/blob/main/the_archives.py) | 100% |
 
 ## League
 ![league](https://i.gyazo.com/8dade560ea6b31e9e9c1a4fb9b2b75af.png "League")
