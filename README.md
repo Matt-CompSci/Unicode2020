@@ -20,4 +20,4 @@ I'm currently competing for team - Salford University
 | The Archives | [view code](https://github.com/Matt-CompSci/Unicode2020/blob/main/the_archives.py) | 100% |
 
 ## League
-![league](https://i.gyazo.com/8dade560ea6b31e9e9c1a4fb9b2b75af.png "League")
+![league](https://i.gyazo.com/edf098bc328b65def7b3d923255baf9a.png "League")
